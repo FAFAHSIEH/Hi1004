@@ -25,6 +25,10 @@
                                     <navigationItem title="Title" id="hba-dR-Uja"/>
                                 </items>
                             </navigationBar>
+                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="NpY-Fh-CX3">
+                                <frame key="frameInset" minX="635" minY="218" width="51" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </switch>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="0.0" alpha="0.16934267241379311" colorSpace="calibratedRGB"/>
                     </view>
